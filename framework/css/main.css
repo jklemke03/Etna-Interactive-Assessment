@@ -1,0 +1,165 @@
+/* ==========================================================================
+   Custom styles
+   ========================================================================== */
+
+/* Defaults */
+
+html {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-size: 14px;
+}
+
+.content {
+    padding: 35px 0px 35px 0px;
+}
+
+.dark{
+    color: white;
+    background-color:#333333;
+}
+
+.inline {
+    display: inline-block;
+
+}
+
+.float-left{
+    float: left;
+}
+    
+.btn {
+    text-transform: uppercase;
+    padding: 15px 30px;
+    border-radius: 0px;
+    background-image: none;
+    text-shadow: none;
+    font-size: 12px;
+    box-shadow: none;
+}
+
+li{
+    display: inline-block;
+}
+
+ul{
+    padding-left:0px;
+}
+
+.content p {
+    font-size: 14px;
+}
+
+.lrg-paragraph{
+    font-size: 18px !important;
+}
+
+.center {
+    text-align: center;
+    margin: 0px auto;
+    float: none !important;
+}
+
+.green{
+    color: #78CE47;
+}
+
+.white{
+    background-color: transparent !important;
+    border: 2px #fff solid !important;
+    color: #fff;
+}
+
+<!-- header styles -->
+
+.top-wrapper{
+    min-height: 500px;
+    color: #fff;
+}
+
+header{
+    padding-top: 10px;
+}
+.top-wrapper .content p {
+    margin-bottom: 30px;
+}
+.company-name{
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.top-right-header {
+    float: right;
+    padding-top: 10px;
+    text-align: right;
+}
+
+.row.top-header {
+    padding: 0px 0px 15px 0px;
+}
+
+.top-nav li {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    border-right: #fff 1px solid;
+    font-size: 12px;
+}
+
+li.menu_item_first {
+    padding-left: 0px;
+}
+
+nav.main-nav li {
+    text-transform: uppercase;
+    padding: 15px 20px 5px 20px;
+    color: #fff;
+}
+
+li.menu_item_last {
+    border: 0px;
+    padding-right: 0px;
+}
+
+.contact {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.nav{
+    background-color: #78CE47;
+}
+
+.top-wrapper .content p {
+    font-size: 40px;
+}
+
+
+<!-- main styles -->
+
+.first-content{
+    margin-top: 70px;
+}
+
+main .btn {
+    padding-left: 90px;
+    padding-right: 90px;
+    background-color: #78CE47;
+    border: 0px;
+    color: #fff;
+}
+
+p.brand {
+    font-style: italic;
+    color: #78CE47;
+    font-size: 18px;
+}
+
+<!-- footer styles -->
+
+<!-- media queries -->
+
+
+
